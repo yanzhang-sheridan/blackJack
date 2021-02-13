@@ -1,7 +1,7 @@
 package blackjackDemo;
 
 public class Card //implements Serializable
-{    
+{    //https://gist.github.com/MelissaBruno/cabf119e2f6573de4fe5
 	/*Making data "private" is information hiding, so that it cannot be access by
 	 someone else with code outside this class.*/
 	private char suit;
