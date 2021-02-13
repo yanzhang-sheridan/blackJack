@@ -5,7 +5,7 @@ public class Card //implements Serializable
 	// Feb 12th,2021
 	/*Making data "private" is information hiding, so that it cannot be access by
 	 someone else with code outside this class.
-         value is the same as rank foer the card, added by yan*/
+         value is the same as rank foer the card*/
 	private char suit;
 	private int value;
 
