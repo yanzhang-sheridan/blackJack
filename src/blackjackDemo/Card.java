@@ -4,7 +4,8 @@ public class Card //implements Serializable
 {    //https://gist.github.com/MelissaBruno/cabf119e2f6573de4fe5
 	// Feb 12th,2021
 	/*Making data "private" is information hiding, so that it cannot be access by
-	 someone else with code outside this class.*/
+	 someone else with code outside this class.
+         value is the same as rank foer the card*/
 	private char suit;
 	private int value;
 
